@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Author>Besma_Bejaoui</o:Author>
+  <o:Created>2020-01-10T14:10:20Z</o:Created>
+  <o:LastSaved>2020-01-10T14:15:41Z</o:LastSaved>
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders>
+    <ss:Border ss:Position="Left" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Top" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Right" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+    <ss:Border ss:Position="Bottom" ss:Color="#000000" ss:LineStyle="Continuous" ss:Weight="1" />
+   </ss:Borders>
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Feuil1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="14.4" ss:DefaultColumnWidth="60" ss:ExpandedRowCount="27" ss:ExpandedColumnCount="6">
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="55.5" />
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="104.25" />
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="83.25" />
+   <Row ss:Index="1">
+    <Cell ss:MergeAcross="3" ss:MergeDown="0" ss:StyleID="S21"><Data ss:Type="String">Les routes </Data>
+    </Cell>
+    <Cell ss:Index="5" ss:MergeAcross="0" ss:MergeDown="1" ss:StyleID="S21"><Data ss:Type="String">Nbre d'intersection</Data>
+    </Cell>
+    <Cell ss:MergeAcross="0" ss:MergeDown="1" ss:StyleID="S21"><Data ss:Type="String">Gouvernorats</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Piste</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Locales</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Régionale</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Nationale</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">تونس</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">6</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">بن عروس</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">6</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">8</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">16</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">منوبة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">أريانة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">6</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">11</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">نابل</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">8</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">المنستير</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">المهدية</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">16</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">سوسة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">19</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">27</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">صفاقس</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">القيروان</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">6</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">القصرين</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">بنزرت</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">تطاوين</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">قابس</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">مدنين</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">9</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">زغوان</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">9</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">سليانة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">6</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">8</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">جندوبة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">6</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">12</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">باجة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">سيدي بوزيد</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">11</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">الكاف</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">توزر</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">8</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">قفصة</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">قبلي</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">73</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">23</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">36</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">33</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">165</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">المجموع</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3" />
+    <Footer x:Margin="0.3" />
+    <PageMargins x:Top="0.75" x:Bottom="0.75" x:Left="0.7" x:Right="0.7" />
+   </PageSetup>
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+     <RangeSelection>R5C4</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

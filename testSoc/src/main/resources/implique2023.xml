@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+<item>
+<labelle>السيارة الخفيفة</labelle><accidents>2962</accidents><tues>502</tues><blesses>4350</blesses>
+</item>
+<item>
+<labelle>الدراجة النارية</labelle><accidents>2151</accidents><tues>384</tues><blesses>2529</blesses>
+</item>
+<item>
+<labelle>المترجل</labelle><accidents>1718</accidents><tues>302</tues><blesses>1691</blesses>
+</item>
+<item>
+<labelle>الشاحنة الخفيفة</labelle><accidents>1284</accidents><tues>371</tues><blesses>1886</blesses>
+</item>
+<item>
+<labelle>سيارة أجرة</labelle><accidents>520</accidents><tues>124</tues><blesses>1032</blesses>
+</item>
+<item>
+<labelle>إنقلاب وسيلة</labelle><accidents>361</accidents><tues>150</tues><blesses>609</blesses>
+</item>
+<item>
+<labelle>إصطدام بحاجز</labelle><accidents>254</accidents><tues>115</tues><blesses>439</blesses>
+</item>
+<item>
+<labelle>الشاحنة الثقيلة</labelle><accidents>216</accidents><tues>120</tues><blesses>318</blesses>
+</item>
+<item>
+<labelle>الدراجة العادية</labelle><accidents>136</accidents><tues>22</tues><blesses>121</blesses>
+</item>
+<item>
+<labelle>حافلة النقل</labelle><accidents>99</accidents><tues>30</tues><blesses>234</blesses>
+</item>
+<item>
+<labelle>سقوط راكب</labelle><accidents>37</accidents><tues>3</tues><blesses>34</blesses>
+</item>
+<item>
+<labelle>الجرار</labelle><accidents>36</accidents><tues>13</tues><blesses>62</blesses>
+</item>
+<item>
+<labelle>القطار</labelle><accidents>18</accidents><tues>8</tues><blesses>20</blesses>
+</item>
+<item>
+<labelle>آلة الأشغال</labelle><accidents>11</accidents><tues>2</tues><blesses>15</blesses>
+</item>
+<item>
+<labelle>المترو</labelle><accidents>1</accidents><tues>0</tues><blesses>1</blesses>
+</item>
+</items>
